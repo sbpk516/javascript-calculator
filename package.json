@@ -1,7 +1,8 @@
 {
-  "name": "java_calculator",
+  "name": "javascript_calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sbpk516.github.io/javascript-calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
